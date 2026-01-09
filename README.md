@@ -407,8 +407,6 @@ Iterate, learn, improve<br/>
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" width="100%"/>
-<br/>
-![Snake animation](https://raw.githubusercontent.com/erenkahramanoglu/erenkahramanoglu/output/dist/github-contribution-grid-snake.svg)
 
 
 </div>
